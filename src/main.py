@@ -1,1 +1,1 @@
-print('This is lab 1.')
+print('Now it is lab 2.')
